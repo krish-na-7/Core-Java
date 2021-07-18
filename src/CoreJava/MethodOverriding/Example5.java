@@ -35,3 +35,10 @@ class Child5 extends Parent5{
         System.out.println("Good Morning !!!");
     }
 }
+
+/*
+    If we are not providing public in child class overriding method then that method can't be accessed
+    by other people and we will get compile time error.
+    Because of our overriding others should not be affected.
+ */
+
