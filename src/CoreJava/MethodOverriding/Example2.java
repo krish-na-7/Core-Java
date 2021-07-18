@@ -32,7 +32,7 @@ class Parent2{
         return null;
     }
 }
-class Child2{
+class Child2 extends Parent2{
     public String method2(){
         return "Hello";        //  Example of Co-Variant return types
     }
