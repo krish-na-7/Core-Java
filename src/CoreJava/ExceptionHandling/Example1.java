@@ -39,6 +39,8 @@ package CoreJava.ExceptionHandling;
                                    Stack Trace
        2. toString()            -  Name of Exception : Description of Exception
        3. getMessage()          -  Description of Exception
+
+       Internally Default Exception Handler uses printStackTrace() method to print exception information to console.
  */
 public class Example1 {
     public static void main(String[] args){
