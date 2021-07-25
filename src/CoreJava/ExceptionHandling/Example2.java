@@ -19,6 +19,9 @@ package CoreJava.ExceptionHandling;
      Errors are not caused by our program and these are due to lack of system resources.Errors are non recoverable.For example
      if out of memory occurs being a programmer we can't do anything and the program will be terminated abnormally.System admin
      or server admin is responsible to increase heap memory.
+
+     The way of Handling an exception is varied from exception to exception hence every exception type it is highly
+     recommended to take separate catch block i.e, try with multiple catch block is possible and recommended to use.
  */
 public class Example2 {
 
