@@ -8,3 +8,9 @@ public class Example12 {
         throw e;
     }
 }
+/*
+    Output :
+    ========
+    Exception in thread "main" java.lang.ArithmeticException
+	at CoreJava.ExceptionHandling.Example12.<clinit>(Example12.java:6)
+ */
