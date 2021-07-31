@@ -24,11 +24,12 @@ public class Example19 {
     public static void main(String[] args){
         try{
             System.out.println("Hello");
-            System.exit(1);
         }
         catch (IOException e){
 
             // Here IOException is an example of Fully Checked Exception.
+            //ArithmeticException is an example of UnChedked Exception
+            //Exception and Throwable are example of Partially Checked Exception.
         }
     }
 
