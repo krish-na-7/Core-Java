@@ -5,7 +5,7 @@ public class Example2 {
     {
         System.out.println(x);
     }
-    static int x =10;
+    static int x = 10;
     public static void main(String[] args)
     {
 
@@ -15,4 +15,5 @@ public class Example2 {
 Output:
 =======
 java: illegal forward reference
+
  */
