@@ -24,12 +24,12 @@ public class Example1 {
     static int i = 7;
     static
     {
-        m1();
+        m1();                   // ==> InDirect Read
         System.out.println(i);  // ==> Direct Read
     }
     public static void m1()
     {
-        System.out.println(i); // ==> InDirect Read
+        System.out.println(i);
     }
     public static void main(String[] args)
     {
