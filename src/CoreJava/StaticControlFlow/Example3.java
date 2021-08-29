@@ -51,9 +51,11 @@ public class Example3 {
 /*
 Output:
 =======
+
 0
 First Static Block
 Second Static Block
 20
 In Main Method
+
  */
