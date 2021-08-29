@@ -41,6 +41,7 @@ class Derived extends Base{
     static int y=200;
 }
 /*
+
 Output:
 =======
 1. If we run Base class(Parent class)
