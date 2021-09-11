@@ -50,3 +50,13 @@ class PriorityThread extends Thread
         }
     }
 }
+/*
+Output:
+=======
+Main Thread Priority - 5
+Main Thread Priority after changing Priority - 7
+Exception in thread "main" java.lang.IllegalArgumentException
+	at java.lang.Thread.setPriority(Thread.java:1089)
+	at CoreJava.MultiThreading.PriorityExample.main(PriorityExample.java:37)
+
+ */
