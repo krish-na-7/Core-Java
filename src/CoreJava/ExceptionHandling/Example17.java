@@ -2,7 +2,7 @@ package CoreJava.ExceptionHandling;
 
 public class Example17 {
     public static void main(String[] args) {
-        throw new Exception();
+        /*throw new Exception();*/
         // Exception is checked Exception. we cannot use throw for Checked Exceptions
     }
 }

@@ -12,6 +12,7 @@ public class InterruptExample2
 }
 class InterruptDemo2 extends Thread
 {
+    @Override
     public void run()
     {
         for(int i=0;i<10;i++)

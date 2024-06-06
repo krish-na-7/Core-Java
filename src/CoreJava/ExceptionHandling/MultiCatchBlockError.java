@@ -8,7 +8,7 @@ package CoreJava.ExceptionHandling;
 public class MultiCatchBlockError {
     public static void main(String[] args){
 
-        try {
+        /*try {
             System.out.println(10/0);
             String s= null;
             System.out.println(s.length());
@@ -17,7 +17,7 @@ public class MultiCatchBlockError {
         catch (ArithmeticException | Exception e){
             e.printStackTrace();
 
-        }
+        }*/
     }
 }
 /*

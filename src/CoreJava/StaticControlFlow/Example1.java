@@ -22,17 +22,17 @@ package CoreJava.StaticControlFlow;
 
 public class Example1 {
     static int i = 7;
-    static
-    {
+
+    static {
         m1();
         System.out.println(i);  // ==> Direct Read
     }
-    public static void m1()
-    {
+
+    public static void m1() {
         System.out.println(i); // ==> InDirect Read
     }
-    public static void main(String[] args)
-    {
+
+    public static void main(String[] args) {
 
     }
 }

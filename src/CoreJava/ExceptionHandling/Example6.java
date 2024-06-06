@@ -10,10 +10,10 @@ package CoreJava.ExceptionHandling;
  */
 public class Example6 {
     public static void main(String[] args){
-        finally
+        /*finally
         {
             System.out.println("Clean Up Code");
-        }
+        }*/
     }
 }
 /*

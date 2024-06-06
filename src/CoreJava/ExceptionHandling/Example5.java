@@ -10,11 +10,11 @@ package CoreJava.ExceptionHandling;
 public class Example5 {
     public static void main(String[] args){
 
-        catch (ArithmeticException e)
+        /*catch (ArithmeticException e)
         {
             e.printStackTrace();
             System.out.println("In Catch Block");
-        }
+        }*/
 
     }
 }

@@ -38,6 +38,8 @@ public class JoinExample2
 class JoinDemo extends Thread
 {
     static Thread mainThread;
+
+    @Override
     public void run()
     {
         try

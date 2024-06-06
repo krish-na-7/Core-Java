@@ -50,7 +50,7 @@ public class Example2 {
     }
 /*   output:
     java.lang.ArithmeticException: / by zero
-    at CoreJava.ExceptionHandling.Example2.main(Example2.java:34)*/
+    at CoreJava.ExceptionHandling.Example2.main(RunnableExample.java:34)*/
 }
 
 /*

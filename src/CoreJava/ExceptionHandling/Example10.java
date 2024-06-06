@@ -8,7 +8,7 @@ import CoreJava.MethodSignature.Example;
  */
 public class Example10 {
     public static void main(String[] args){
-        throw new Example10();
+        /*throw new Example10();*/
     }
 }
 /*

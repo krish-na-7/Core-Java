@@ -7,7 +7,7 @@ package CoreJava.ExceptionHandling;
 public class Example9 {
     public static void main(String[] args){
         throw new ArithmeticException("/ by zero");
-        System.out.println("UnReachable Statement");
+       /* System.out.println("UnReachable Statement");*/
     }
 }
 /*

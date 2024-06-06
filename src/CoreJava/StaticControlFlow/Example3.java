@@ -27,26 +27,27 @@ package CoreJava.StaticControlFlow;
    3. Execution of main method.
  */
 public class Example3 {
-    static int i =10;
-    static
-    {
+    static int i = 10;
+
+    static {
         method1();
         System.out.println("First Static Block");
     }
-    public static void main(String[] args)
-    {
+
+    public static void main(String[] args) {
         method1();
         System.out.println("In Main Method");
     }
-    public static void method1()
-    {
+
+    public static void method1() {
         System.out.println(j);
     }
-    static
-    {
+
+    static {
         System.out.println("Second Static Block");
     }
-    static int j =20;
+
+    static int j = 20;
 }
 /*
 Output:

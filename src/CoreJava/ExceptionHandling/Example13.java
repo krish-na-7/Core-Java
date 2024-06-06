@@ -14,7 +14,7 @@ package CoreJava.ExceptionHandling;
  */
 public class Example13 {
     public static void main(String[] args){
-       Thread.sleep(10000);
+       /*Thread.sleep(10000);*/
     }
 }
 

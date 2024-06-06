@@ -22,7 +22,7 @@ import java.io.IOException;
 public class Example19 {
 
     public static void main(String[] args){
-        try{
+        /*try{
             System.out.println("Hello");
         }
         catch (IOException e){
@@ -30,7 +30,7 @@ public class Example19 {
             // Here IOException is an example of Fully Checked Exception.
             //ArithmeticException is an example of UnChedked Exception
             //Exception and Throwable are example of Partially Checked Exception.
-        }
+        }*/
     }
 
 }

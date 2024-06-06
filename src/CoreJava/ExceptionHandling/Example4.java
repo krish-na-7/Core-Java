@@ -15,11 +15,11 @@ public class Example4 {
 
     public static void main(String[] args){
 
-        try
+       /* try
         {
             System.out.println(10/0);
             System.out.println("In Try Block");
-        }
+        }*/
 
     }
 }

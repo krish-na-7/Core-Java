@@ -52,7 +52,7 @@ public class Example1 {
             e.printStackTrace();
             /*
             java.lang.ArithmeticException: / by zero
-	at CoreJava.ExceptionHandling.Example1.main(Example1.java:41)
+	at CoreJava.ExceptionHandling.Example1.main(ThreadExample.java:41)
              */
 
             System.out.println(e);
